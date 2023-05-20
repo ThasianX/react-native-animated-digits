@@ -1,0 +1,6 @@
+{
+  "extends": "../tsconfig",
+  "compilerOptions": {
+    // Avoid auto-generating a tsconfig
+  }
+}
